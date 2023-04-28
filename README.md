@@ -1,6 +1,6 @@
 # NextJS and Typescript App
 
-Deployed app to Vercel [Demo App](ttps://nextjs-typescript-app-blush.vercel.app/)
+Deployed app to Vercel [Demo App](https://nextjs-typescript-app-blush.vercel.app/)
 
 <p align="center">
       <img width="600"  src="./screenshot.png">
