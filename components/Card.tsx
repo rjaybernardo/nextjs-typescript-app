@@ -1,6 +1,14 @@
 import Image from "next/image";
 import styles from "@/styles/Card.module.css";
 
+type User = {
+  id: number;
+  email: string;
+  first_name: string;
+  last_name: string;
+  avatar: string;
+};
+
 type CardProps = {
   user: User;
 };
